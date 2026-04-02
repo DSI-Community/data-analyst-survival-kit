@@ -14,8 +14,8 @@ Bitte lies dir diese Anleitung **Schritt für Schritt** durch. Du arbeitest hier
 
 ### Schritt 1: Issue sichern
 1. Gehe oben auf den Reiter **Issues**.
-2. Such dir eine Aufgabe aus, die dir gefällt.
-3. Klicke im Issue auf **"Assign yourself"** (unter "Assignees" rechts), damit die anderen wissen: *Das ist meins!*
+2. Such dir eine Aufgabe aus, die dir gefällt, um ins Repository beizutragen.
+3. Hinterlasse gerne auch ein Kommentar unter deinem ausgewählten Issue. 
 
 ### Schritt 2: Forken, Klonen & die Zeitreise ⏱️
 1. **WICHTIG:** Damit wir alle vom selben Startpunkt loslegen, erstellen wir unseren Arbeits-Branch ausgehend von einem eingefrorenen Template-Branch (NICHT von `main`).
