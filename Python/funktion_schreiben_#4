@@ -1,0 +1,2 @@
+def brutto_berechnen(nettobetrag):
+    return nettobetrag * 1.19
