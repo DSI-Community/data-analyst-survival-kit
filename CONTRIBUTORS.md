@@ -1,3 +1,9 @@
 # 🏆 Hall of Fame
 
--- ERSETZE DIESE ZEILE MIT DEINEM NAMEN --
+Julia Kutschke
+mzb11
+Vitaliy
+JackTheGitter
+Spiderman1234
+GitWizard9 (Dennis)
+
