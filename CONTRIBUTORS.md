@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- schijes
 - andre-janssen
 - Yusuf
 - rjgDc
