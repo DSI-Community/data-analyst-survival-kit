@@ -9,6 +9,6 @@ employees = {
     "Paula": 44000
 }
 
-emp1 = "Jan"
+emp1 = "Michael"
 salary1 = employees[emp1]
 print(f"Das Jahresgehalt von {emp1} ist {salary1}")
