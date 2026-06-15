@@ -1,6 +1,5 @@
 # Issue#4 : Funktionen schreiben
 
-s
 def brutto_berechnen(netto):
     return netto * 1.19
 
