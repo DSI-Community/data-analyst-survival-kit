@@ -4,11 +4,11 @@
 
 # Dictionary erstellen
 employees = {
-    "name": ["Jan", "Michael", "Paula"],
-    "salary": [41000, 45000, 44000]
+    "Jan": 41000,
+    "Michael": 45000,
+    "Paula": 44000
 }
 
-emp1 = employees["name"][0]
-salary1 = employees["salary"][0]
-
-print(F"Das Jahresgehalt von {emp1} ist {salary1}")
+emp1 = "Jan"
+salary1 = employees[emp1]
+print(f"Das Jahresgehalt von {emp1} ist {salary1}")
