@@ -1,7 +1,8 @@
 # Hall of Fame
 
 - Adrienn
--andre-janssen
+- schijes
+- andre-janssen
 - Yusuf
 - rjgDc
 - Markus Edelhoff
@@ -19,3 +20,5 @@
 - JackTheGitter
 - Spiderman1234
 - @GitWizard9 (Dennis)
+- Christinedous93
+- Dianelamujica
