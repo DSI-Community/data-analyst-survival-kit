@@ -1,0 +1,11 @@
+import pandas as pd
+
+data = {
+    "Mitarbeiter": ["Anna", "Ben", "Chris", "Diana"],
+    "Umsatz": [25000, 42000, 18000, 31000],
+}
+df = pd.DataFrame(data)
+
+df_sortiert = df.sort_values(by="Umsatz", ascending=False)
+
+print(df_sortiert)
