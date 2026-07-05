@@ -1,0 +1,1 @@
+df.rename(columns={"alter_name": "neuer_name"}, inplace=True)
