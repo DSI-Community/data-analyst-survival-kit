@@ -1,3 +1,4 @@
 # 🏆 Hall of Fame
 
--- ERSETZE DIESE ZEILE MIT DEINEM NAMEN --
+\-- Rustam Toschpulotov --
+
