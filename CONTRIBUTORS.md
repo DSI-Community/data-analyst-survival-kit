@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- Steffen Mauch
 - Adrienn
 - schijes
 - andre-janssen
