@@ -1,5 +1,7 @@
 # Hall of Fame
 
+feature-Arseni-Bingel
+Arseni Bingel
 - Adrienn
 - schijes
 - andre-janssen
@@ -22,3 +24,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+main
