@@ -22,3 +22,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+- georgeballa7
