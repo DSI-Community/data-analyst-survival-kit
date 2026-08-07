@@ -39,4 +39,8 @@ VALUES (3, 3, 12347, 173);
 
 SELECT * 
 FROM users
-INNER JOIN orders USING (user_id);
+
+LEFT JOIN orders USING (user_id); # alle Kunden, auch ohne Bestellung
+
+#INNER JOIN orders USING (user_id); nur Kunden mit Bestellung
+
