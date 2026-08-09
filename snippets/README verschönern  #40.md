@@ -6,5 +6,5 @@
 *Aufgabe 2*
 *image examples #40*
 
-![Logo](https://example.com/logo.png)
+![SemperVideoBeitrag](https://blog.ralf-peter-kleinert.de/wp-content/uploads/2026/03/die-besten-it-youtuber-in-deutschland.png)
 
