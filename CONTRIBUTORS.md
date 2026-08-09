@@ -1,5 +1,7 @@
 # Hall of Fame
 
+-feature-pandas-left-join
+-Royar Hassan
 - Adrienn
 - schijes
 - andre-janssen
@@ -22,3 +24,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+-main
