@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- Annika Heyer
 - Adrienn
 - schijes
 - andre-janssen
@@ -22,3 +23,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+
