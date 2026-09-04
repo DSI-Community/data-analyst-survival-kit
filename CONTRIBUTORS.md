@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- MaDiDev8
 - Adrienn
 - schijes
 - andre-janssen
