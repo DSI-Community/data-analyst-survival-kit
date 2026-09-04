@@ -1,5 +1,8 @@
 # Hall of Fame
 
+base-tempalte_stage
+
+- MaDiDev8
 - Adrienn
 - schijes
 - andre-janssen
@@ -22,3 +25,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+main
