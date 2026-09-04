@@ -1,5 +1,4 @@
 # Hall of Fame
-
 - Adrienn
 - schijes
 - andre-janssen
@@ -22,3 +21,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+- NilsM
