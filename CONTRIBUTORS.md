@@ -1,3 +1,3 @@
 # 🏆 Hall of Fame
 
--- Stefanie Heyne --
+-- Steffi --
