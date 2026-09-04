@@ -1,3 +1,28 @@
-# 🏆 Hall of Fame
+# Hall of Fame
 
-MaDiDev8
+base-tempalte_stage
+
+- MaDiDev8
+- Adrienn
+- schijes
+- andre-janssen
+- Yusuf
+- rjgDc
+- Markus Edelhoff
+- Anna Muravyeva
+- Merlin
+- sdemmler
+- Amaya Zorrilla
+- Jenny Krause (jen260920)
+- hanyu1774
+- Michael Winkels
+- Nataliya Yavon
+- Julia Kutschke
+- mzb111
+- Vitaliy
+- JackTheGitter
+- Spiderman1234
+- @GitWizard9 (Dennis)
+- Christinedous93
+- Dianelamujica
+main
