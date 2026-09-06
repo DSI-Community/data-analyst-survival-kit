@@ -48,9 +48,7 @@ Da **jeder** von euch seinen Namen exakt in Zeile 3 der `CONTRIBUTORS.md` eintr�
 Das ist kein Fehler – das ist pure Absicht! Willkommen in der Realität der IT. 😉
 
 **Deine finale Aufgabe:**
-Löse diesen Konflikt **in deinem eigenen Pull Request**! Du darfst deinen Namen nicht löschen, aber die der anderen auch nicht. 
-
-* Navigiere dich zum [originalen Repository](https://github.com/DSI-Community/data-analyst-survival-kit/pull/) und finde deinen Pull Request.
+Löse diesen Konflikt! Du darfst deinen Namen nicht löschen, aber die der anderen auch nicht. 
 * Klicke in deinem PR auf **"Resolve conflicts"**.
 * Entferne die Git-Marker (`<<<<<<<`, `=======`, `>>>>>>>`).
 * Ordne deinen Namen einfach in der Liste unter oder über den bereits vorhandenen Namen ein.
