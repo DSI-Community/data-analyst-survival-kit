@@ -1,0 +1,13 @@
+# Issue: SQL: Top 5 Ergebnisse (Order By / Limit) #25 
+#Zeige die 5 teuersten Produkte aus der Tabelle \products, absteigend sortiert.
+# Query für Classic Models
+
+
+SELECT 
+
+productname, msrp
+
+from products
+
+ORDER BY msrp DESC
+LIMIT 5;
