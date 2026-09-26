@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- Zhaina Bakytova
 - Adrienn
 - schijes
 - andre-janssen
