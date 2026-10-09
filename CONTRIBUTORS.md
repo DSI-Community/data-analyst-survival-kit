@@ -22,4 +22,5 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+- Olga
 - Johannes Baltzer(JohBal26)
