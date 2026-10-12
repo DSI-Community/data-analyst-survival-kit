@@ -1,6 +1,7 @@
 # Hall of Fame
 
 - Vanesa
+- BarbaraW345
 - Adrienn
 - schijes
 - andre-janssen
