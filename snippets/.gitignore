@@ -1,0 +1,34 @@
+Die .gitignore legt fest, welche Dateien Git absichtlich nicht verfolgen soll – z. B. node_modules/, .env,
+Logdateien oder Build‑Ordner. Sie wirkt nur auf Dateien, die noch nicht getrackt wurden, und nutzt Musterregeln, um bestimmte Dateien oder Ordner auszuschließen.
+
+Zweck der .gitignore
+Verhindert, dass unerwünschte Dateien ins Repository gelangen (z. B. Build‑Artefakte, temporäre Dateien, IDE‑Konfigurationen). 
+
+Atlassian
+Hält das Repository sauber und reduziert unnötige Änderungen.
+Regeln gelten nur für untracked Dateien; bereits getrackte Dateien müssen zuerst mit git rm --cached entfernt werden. 
+
+GitHub
+Wie funktioniert sie?
+Jede Zeile enthält ein Muster, das Dateinamen oder Ordner beschreibt.
+Beispiele:
+node_modules/ → ignoriert gesamten Ordner
+.env → ignoriert eine Datei
+*.log → ignoriert alle .log‑Dateien
+!important.log → hebt eine vorherige Ignore‑Regel auf
+Git prüft .gitignore‑Dateien im aktuellen und übergeordneten Verzeichnissen. 
+
+git-scm.de
+Typische Inhalte
+Abhängigkeiten: node_modules/, packages/
+Build‑Output: dist/, target/, bin/
+Systemdateien: .DS_Store, Thumbs.db
+Logs & temporäre Dateien: *.log, *.tmp
+
+Atlassian
+Wichtige Hinweise
+.gitignore ist keine Sicherheitsmaßnahme – sensible Daten sollten nicht versehentlich committet werden.
+Für globale Regeln (z. B. Editor‑Backups) gibt es eine globale Ignore‑Datei (~/.config/git/ignore). 
+
+GitHub
+Eine korrekt gepflegte .gitignore ist ein zentraler Bestandteil sauberer Git‑Workflows.
