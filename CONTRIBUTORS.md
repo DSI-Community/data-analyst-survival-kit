@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- Vanesa
 - Adrienn
 - schijes
 - andre-janssen
@@ -23,3 +24,4 @@
 - Christinedous93
 - Dianelamujica
 - georgeballa7
+- Johannes Baltzer(JohBal26)
