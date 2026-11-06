@@ -1,0 +1,1 @@
+text = "Hallo, wie geht's? Ich lerne Python!"
