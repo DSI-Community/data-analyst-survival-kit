@@ -1,6 +1,7 @@
 # Hall of Fame
 
 - AnaB
+- CHuismann
 - Vanesa
 - Adrienn
 - schijes
